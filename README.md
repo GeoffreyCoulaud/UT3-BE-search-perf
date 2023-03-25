@@ -8,6 +8,6 @@ Study of text search tools in the context of the "Bureau d'études" class at Uni
 
 ## License
 
-Source code and its documentation, located under the `src` directory are licensed under the [MIT License](https://spdx.org/licenses/MIT.html).
+Source code and its documentation, located under the `src` directory are licensed under the [MIT License](https://opensource.org/license/mit/).
 
-Non-code assets such as graphs, images, reports and progress notes, located under the `report` directory are licensed under the [CC0 1.0 Universal](https://spdx.org/licenses/CC0-1.0.html). 
+Non-code assets such as graphs, images, reports and progress notes, located under the `report` directory are licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). 
